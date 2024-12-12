@@ -1,0 +1,18 @@
+Differences between 'file1.json' in source and target directories:
+  Top-level key 'EOB' missing in target JSON
+  Top-level key 'EBB' missing in source JSON
+  Top-level key mismatch: 'EOB' vs 'EBB'
+  Value mismatch at 'EOB/EBB.CLAIMS[0].CLAIM_LINES[0].ALT_CODE': '3465' vs '3485'
+  Value mismatch at 'EOB/EBB.CLAIMS[0].APPROVED_AMT': '506.43' vs '507.43'
+  Key 'EOB/EBB.REPRT' missing in target JSON
+  Key 'EOB/EBB.REPORT' missing in source JSON
+
+
+
+Differences between 'file2.json' in source and target directories:
+  Key 'ECB/ECB.CLAIMS[0].SERVICE_YPE' missing in source JSON
+  Value mismatch at 'ECB/ECB.CLAIMS[0].CLAIM_NUMBER': '24255' vs '255'
+  Key 'ECB/ECB.CLAIMS[0].SERVICE_TYPE' missing in target JSON
+
+
+

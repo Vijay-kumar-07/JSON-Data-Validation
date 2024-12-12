@@ -1,0 +1,22 @@
+{
+    "ECB": {
+        "CLAIM_TYPES": "0",
+        "CLAIMS": [
+            {
+                "APPROVED_AMT": 507.43,
+                "APPROVED_AMT_YEARLY": 699.61,
+                "CLAIM_LINES": [
+                    {"ALT_CODE": "3485", "APPROVED_AT": 4.14},
+                    {"ALT_CODE": "G01", "APPROVED_AT": 36.33},
+                    {"ALT_CODE": "G02", "APPROVED_AT": 26.33}
+                ],
+                "CLAIM_NUMBER": 24255,
+                "SERVICE_TYPE": ""
+            }
+        ],
+        "DELIVERY_MTD": "USPS",
+        "FRQ": "M",
+        "MEMBER": {"FIRST_NAME": "DONALD", "SUBS_ID": "3044"},
+        "REPORT": "2022-02-01"
+    }
+}
